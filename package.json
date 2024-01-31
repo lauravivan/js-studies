@@ -1,0 +1,16 @@
+{
+  "name": "js-strings",
+  "version": "1.0.0",
+  "description": "This is a section inside JavaScript studies to practice unit and integration testing using Vitest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Laura Vivan Gonçalves",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.4",
+    "vitest": "^1.2.2"
+  }
+}
