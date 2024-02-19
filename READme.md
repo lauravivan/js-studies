@@ -8,7 +8,8 @@
 
 ### Docs
 
-- [W3Schools](https://www.w3schools.com/js/default.asp)
+- [W3Schools JS Tutorial](https://www.w3schools.com/js/default.asp)
+- [W3Schools JS Reference](https://www.w3schools.com/jsref/default.asp)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript.info](https://javascript.info/)
 - [devdocs.io](https://devdocs.io/javascript/)
