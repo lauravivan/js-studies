@@ -8,3 +8,4 @@ This is a section inside JavaScript studies to practice unit and integration tes
 - [Vitest Documentation](https://vitest.dev/guide/)
 - [Course Repository](https://github.com/academind/js-testing-practical-guide-code)
 - [Testing Library](https://testing-library.com)
+- [JS Exercises](https://exercism.org/)
